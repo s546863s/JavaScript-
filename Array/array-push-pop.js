@@ -24,3 +24,6 @@ const moreFruits2 = ["pear", "peach", "plum", "pineapple", "watermelon", ];
 
 fruits.push(...moreFruits2);
 console.log(fruits); // Output: ["apple", "banana", "orange", "kiwi", "mango", "pear", "peach", "plum", "pineapple", "watermelon"]
+
+
+
