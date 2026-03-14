@@ -26,4 +26,26 @@ fruits.push(...moreFruits2);
 console.log(fruits); // Output: ["apple", "banana", "orange", "kiwi", "mango", "pear", "peach", "plum", "pineapple", "watermelon"]
 
 
+const myObjectFruits = {
+    name: "apple",
+    price: 1200
+}
+
+
+fruits.push(myObjectFruits);
+
+console.log(fruits);
+
+
+fruits.pop()
+
+fruits.pop()
+
+fruits.pop()
+
+console.log(fruits);
+
+
+
+
 
