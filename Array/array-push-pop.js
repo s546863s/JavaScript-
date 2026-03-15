@@ -46,6 +46,25 @@ fruits.pop()
 console.log(fruits);
 
 
+const numbers = [12, 13, 14, 15]; 
+
+console.log(...numbers)
+
+fruits.push(...numbers);
+
+console.log(fruits);
+
+
+numbers.shift()
+
+console.log(numbers);
+
+
+
+numbers.unshift("ryhfh", "1664", 4848);
+
+console.log(numbers);
+
 
 
 
